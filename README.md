@@ -48,6 +48,9 @@ Checking every file before merging catches problems that don't raise errors, suc
 
 ## Author
 Yash Pawar, BSc Data Science student, MIT ACSC Alandi, Pune
+
 GitHub: https://github.com/yashpawar-ds
+
 LinkedIn: https://www.linkedin.com/in/yash-pawar-aaa6ba382/
+
 Kaggle: https://www.kaggle.com/yashpawar7053
