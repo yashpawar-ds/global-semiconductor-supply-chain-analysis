@@ -1,12 +1,13 @@
 # Global Semiconductor Supply Chain: Sanctions, AI Investment and Sovereignty
 
-![Dashboard](dashboard/dashboard.png)
+![Dashboard](https://github.com/yashpawar-ds/global-semiconductor-supply-chain-analysis/blob/main/dashboard/Dashboard.JPG)
 
 ## About this project
 Exploratory analysis of the Global AI Sovereignty & Hardware Supply Chain dataset: six related CSV files covering 12 countries from 2015 to 2025. I cleaned and checked every file in Python, answered 12 questions on trade, sanctions, investment and economic indicators, and built a Power BI dashboard from the results.
 
 ## Dataset
 Global AI Sovereignty & Hardware Supply Chain, from Kaggle: [https://www.kaggle.com/datasets/moaz1911/global-ai-sovereignty-and-hardware-supply-chain]
+
 The dataset mixes real and synthetic data (flagged by an is_synthetic column), so the findings show patterns and are not verified real-world figures.
 
 ## Questions explored
